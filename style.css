@@ -1,0 +1,49 @@
+#id_1 {
+	font-family: serif;
+	font-size: 12pt;
+	font-style: italic;
+	color: #d50019;
+}
+
+#id_2 {
+	font-family: sans-serif;
+	font-size: 2em;
+}
+
+#id_3 {
+	font-family: monospace;
+	font-size: 24px;
+	font-style: oblique;
+	font-weight: 100;
+}
+
+#id_4::first-letter {
+	font-size: 3em; /* Размер буквицы */
+    padding: 3px; /* Поля вокруг первой буквы */
+    margin-right: 2px; /* Отступ справа */
+    margin-top: 8px;
+    color: #e7685d; /* Цвет буквицы  */
+    float: left; /* Обтекание по правому краю */
+    line-height: 0.33em; /* Положение относительно текста */
+}
+
+#id_4 {
+	font-family: cursive;
+	font-size: 0.8rem;
+	color: #006cc9;
+}
+
+#id_5 {
+	font-family: fantasy;
+	font-size: x-small;
+	font-weight: 900;
+}
+
+sup, sub {
+    font-style: italic; /* Курсивное начертание */
+    color: red; /* Красный цвет символов */
+}
+
+sub {
+    color: blue; /* Синий цвет символов */
+}
