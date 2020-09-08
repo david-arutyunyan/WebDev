@@ -1,2 +1,2 @@
 Ya JavaScript
-Net, ti vresh!!!
+Net, ti vresh???
